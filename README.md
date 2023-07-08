@@ -44,4 +44,6 @@
 <br/>
 
 <h3> 👉🏾 &nbsp;Connect with Me </h3>
-![Visitor Count](https://profile-counter.glitch.me/{expertMobile}/count.svg)
+<p align="center">
+![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg)
+</p>
