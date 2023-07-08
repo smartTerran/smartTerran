@@ -32,7 +32,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-  ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg)
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smartTerran&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="smartTerran" align = "center"/>
@@ -45,3 +44,4 @@
 <br/>
 
 <h3> 👉🏾 &nbsp;Connect with Me </h3>
+  ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg)
