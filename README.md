@@ -1,7 +1,3 @@
-
-
-<h2> Hi there!</h2>
-
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and solving problems.
@@ -38,7 +34,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" align = "center"/>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&hide_border=true&bg_color=0D1117) <br/>
 ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg)
 
 <!-- <a href="https://github.com/smartTerran">
