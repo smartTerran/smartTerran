@@ -38,6 +38,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" align = "center"/>
 </p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&hide_border=true)
 ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg)
 
 <!-- <a href="https://github.com/smartTerran">
