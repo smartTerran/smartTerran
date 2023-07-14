@@ -40,4 +40,4 @@
 <!-- <a href="https://github.com/smartTerran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smartTerran&theme=buefy&show_icons=true" />
 </a> -->
-<h3> 👉🏾 &nbsp;Connect with Me </h3>
+<!-- <h3> 👉🏾 &nbsp;Connect with Me </h3> -->
