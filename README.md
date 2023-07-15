@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=I+am+a+Full+Stack+Web+Developer%F0%9F%97%BF;Working+with+React+Node+Express+Python+TypeScript%F0%9F%91%80;also+working+for+UI+Design">
+<img src="https://komarev.com/ghpvc/?username=smartTerran&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="smartTerran" />
 </p>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
@@ -51,7 +52,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117" alt="smartTerran" align = "center"/> -->
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg) -->
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
 <!-- <a href="https://github.com/smartTerran">
