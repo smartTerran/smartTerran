@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="3">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=I+am+a+Full+Stack+Web+Developer%F0%9F%97%BF;Working+with+React+Node+Express+Python+TypeScript%F0%9F%91%80;also+working+for+UI+Design">
@@ -54,7 +54,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg) -->
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="3">
 <!-- <a href="https://github.com/smartTerran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smartTerran&theme=buefy&show_icons=true" />
 </a> -->
