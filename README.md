@@ -21,7 +21,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
