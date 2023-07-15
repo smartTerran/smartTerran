@@ -3,7 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=I+am+a+Full+Stack+Web+Developer%F0%9F%97%BF;Working+with+React+Node+Express+Python+TypeScript%F0%9F%91%80;also+working+for+UI+Design">
 </p>
-
+<samp>
+I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+</samp>
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and solving problems.
