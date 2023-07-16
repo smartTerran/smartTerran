@@ -69,9 +69,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117" alt="smartTerran" align = "center"/> -->
 </p>
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg)
 
-## 📌 Pinned Repositories 
+## 📌 Pinned Repositories
 
 <a href="https://github.com/smartTerran/bitcoin-wallet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smartTerran&repo=bitcoin-wallet&theme=radical" />
@@ -81,7 +81,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smartTerran&repo=ChainReactApp&theme=radical" />
 </a>
 
-<!-- <br>
+<br>
 <br>
 
 <a href="https://github.com/syedsimanta03/instagram-clone">
@@ -92,7 +92,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </a> -->
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1200" height="3">
+
 <!-- <a href="https://github.com/smartTerran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smartTerran&theme=buefy&show_icons=true" />
-</a> -->
-<!-- <h3> 👉🏾 &nbsp;Connect with Me </h3> -->
+</a>
+<h3> 👉🏾 &nbsp;Connect with Me </h3> -->
