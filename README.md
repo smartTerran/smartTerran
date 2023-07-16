@@ -71,6 +71,26 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg) -->
 
+## 📌 Pinned Repositories 
+
+<a href="https://github.com/smartTerran/bitcoin-wallet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smartTerran&repo=bitcoin-wallet&theme=radical" />
+</a>
+
+<a href="https://github.com/smartTerran/ChainReactApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smartTerran&repo=ChainReactApp&theme=radical" />
+</a>
+
+<!-- <br>
+<br>
+
+<a href="https://github.com/syedsimanta03/instagram-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smartTerran&repo=instagram-clone&theme=radical" />
+</a>
+<a href="https://github.com/syedsimanta03/gatsby-shopify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smartTerran&repo=gatsby-shopify&theme=radical" />
+</a> -->
+
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1200" height="3">
 <!-- <a href="https://github.com/smartTerran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smartTerran&theme=buefy&show_icons=true" />
