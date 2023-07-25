@@ -57,12 +57,12 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ## 🔥 Streak Stats
 <p align="center">
   <img title="🔥 Get streak stats" alt="smartTerran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" />
 </p>
 
 ## 🎯 Github Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=smartTerran&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" alt="smartTerran"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=github_dark" alt="expertMobile" />
 </p>
 
 ## 🌍 Most Used Languages
