@@ -57,11 +57,18 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="smartTerran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=smartTerran&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" alt="smartTerran"/>
-  <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" />
+  <img title="🔥 Get streak stats" alt="smartTerran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&hide_border=true&bg_color=0D1117"/>
 </p>
 
+## 🔥 Github Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=smartTerran&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" alt="smartTerran"/>
+</p>
+
+## 🔥 Most used languages
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" />
+</p>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg)
 
 ## 📌 Pinned Repositories
