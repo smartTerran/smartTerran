@@ -7,13 +7,12 @@
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
-<h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
+<h3> 👨🏾‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and solving problems.
 - 🎓 &nbsp; Studied Software Engineering.
 - 💼 &nbsp; Looking for work.
 - 🌱 &nbsp; Learning more about React & Python.
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -69,9 +68,10 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <p align="center">
   <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" />
 </p>
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{smartTerran}/count.svg)
 
-## 📌 Pinned Repositories
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1200" height="3">
+
+<!-- ## 📌 Pinned Repositories
 
 <a href="https://github.com/smartTerran/bitcoin-wallet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smartTerran&repo=bitcoin-wallet&theme=radical" />
@@ -89,11 +89,4 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </a>
 <a href="https://github.com/syedsimanta03/gatsby-shopify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smartTerran&repo=gatsby-shopify&theme=radical" />
-</a>
-
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1200" height="3">
-
-<!-- <a href="https://github.com/smartTerran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smartTerran&theme=buefy&show_icons=true" />
-</a>
-<h3> 👉🏾 &nbsp;Connect with Me </h3> -->
+</a> -->
