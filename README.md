@@ -54,15 +54,15 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 
-## 🔥 Streak Stats & 🌍 Most Used Languages
+## 🔥 Streak Stats
 <p align="center">
   <img title="🔥 Get streak stats" alt="smartTerran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" />
 </p>
 
-## 🎯 Github Stats
+## 🎯 Github Stats & 🌍 Most Used Languages
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=smartTerran&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" alt="smartTerran"/>
+  <img height="160em" src="https://github-readme-stats-p1rh.vercel.app/api?username=smartTerran&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" alt="smartTerran"/>
+  <img height="160em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" />
 </p>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1200" height="3">
