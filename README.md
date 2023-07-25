@@ -62,6 +62,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ## 🎯 Github Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=smartTerran&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" alt="smartTerran"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=github_dark" alt="expertMobile" />
 </p>
 
 ## 🌍 Most Used Languages
