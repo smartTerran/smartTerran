@@ -61,8 +61,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 ## 🎯 Github Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=smartTerran&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" alt="smartTerran"/>
-  <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smartTerran&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" alt="smartTerran"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" />
 </p>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1200" height="3">
