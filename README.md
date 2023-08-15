@@ -54,6 +54,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 
+<!--
 ## 🔥 Streak Stats
 <p align="center">
   <img title="🔥 Get streak stats" alt="smartTerran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical&hide_border=true"/>
@@ -64,8 +65,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smartTerran&hide_border=true&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" alt="smartTerran"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=smartTerran&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="smartTerran" />
 </p>
+-->
 
-<!--
 --------------------------
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smartTerran&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smartTerran&hide=Html&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smartTerran&theme=blue_green) |
@@ -74,6 +75,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=blue_green) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smartTerran&theme=blue-green&hide_border=true&border_radius=12)](https://git.io/streak-stats) |
 | :-: | :-: |
 
+<!--
 [![Johnny's GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnnymarcelino)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
