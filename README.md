@@ -76,6 +76,20 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=blue_green) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smartTerran&theme=blue-green&hide_border=true&border_radius=12)](https://git.io/streak-stats) |
 | :-: | :-: |
 
+<p align="center">
+     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+     <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
+     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
+</p>
+<p align="center">
+<div align="center">
+     <img
+        src="https://github-profile-trophy.vercel.app/?username=smartTerran&theme=matrix&no-bg=true&no-frame=true&row=1&column=7&title=MultiLanguage,Commits,Followers,Repositories,Issues,Organizations,Stars">
+</div>
+<div align="center">  
+     <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=tokyonight" />
+     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartTerran&theme=tokyonight&PAT_1" />
+</div>
 <!--
 [![Johnny's GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnnymarcelino)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
