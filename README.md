@@ -68,10 +68,10 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 -->
 
 --------------------------
-<!--
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smartTerran&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smartTerran&hide=Html&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smartTerran&theme=blue_green) |
 | :-: | :-: | :-: |
--->
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=blue_green) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smartTerran&theme=blue-green&hide_border=true&border_radius=12)](https://git.io/streak-stats) |
 | :-: | :-: |
