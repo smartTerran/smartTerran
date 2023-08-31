@@ -76,7 +76,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 -->
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=blue_green) | [![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=blue_green) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=blue_green) |
 | :-: | :-: |
 
 <p align="center">
