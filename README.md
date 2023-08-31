@@ -90,8 +90,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
         src="https://github-profile-trophy.vercel.app/?username=smartTerran&theme=matrix&no-bg=true&no-frame=true&row=1&column=7">
 </div>
 <div align="center">  
-     <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=tokyonight" />
-     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartTerran&theme=tokyonight&PAT_1" />
+     <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=smartTerran&theme=radical" />
+     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartTerran&theme=radical&PAT_1" />
 </div>
 <!--
 [![Johnny's GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnnymarcelino)
