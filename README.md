@@ -68,14 +68,14 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 -->
 
 --------------------------
-
+<!--
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smartTerran&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smartTerran&hide=Html&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smartTerran&theme=blue_green) |
 | :-: | :-: | :-: |
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartTerran&theme=blue_green) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smartTerran&theme=blue-green&hide_border=true&border_radius=12)](https://git.io/streak-stats) |
 | :-: | :-: |
-
+-->
 <p align="center">
      <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
      <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
