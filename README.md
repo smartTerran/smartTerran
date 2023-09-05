@@ -8,14 +8,21 @@
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
 
+--------------------------
+
+<img
+  align="right"
+  width="400"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+  alt="Coding"
+/>
+
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and solving problems.<br>
 - 🎓 &nbsp; Studied Software Engineering.<br>
 - 💼 &nbsp; Looking for work.<br>
 - 🌱 &nbsp; Learning more about React & Python.
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
