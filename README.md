@@ -12,7 +12,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <img
   align="right"
-  width="360"
+  width="300"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
   alt="Coding"
 />
