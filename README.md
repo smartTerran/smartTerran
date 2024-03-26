@@ -92,11 +92,13 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 | :-: | :-: |
 -->
 
+<!--
 <p align="center">
      <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
      <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
      <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
 </p>
+-->
 <p align="center">
 <div align="center">
      <img
